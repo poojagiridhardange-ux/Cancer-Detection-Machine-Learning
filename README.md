@@ -189,7 +189,7 @@ Cancer_Detection_Machine_Learning_Project_Report.pdf
 ## Author
 
 **Pooja Giridhar Dange**
-BBA – Business Analytics
-Sri Balaji University, Pune
+*BBA – Business Analytics*
+*Sri Balaji University, Pune*
 
 
